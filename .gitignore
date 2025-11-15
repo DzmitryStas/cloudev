@@ -1,0 +1,12 @@
+.vagrant/
+*.log
+
+# Terraform (future labs)
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Cache folders
+__pycache__/
+*.pyc
+node_modules/
